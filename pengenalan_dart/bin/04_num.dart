@@ -7,4 +7,5 @@ void main(){
   num b = 10.5;
 
   print(a);
+  print(b);
 }
